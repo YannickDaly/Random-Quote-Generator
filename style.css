@@ -1,0 +1,82 @@
+@import url(https://fonts.googleapis.com/css?family=Vollkorn:700italic,400);
+
+body{
+	
+	background-color:#111111;
+	
+}
+
+.parent{
+	 position: relative;
+	 overflow: auto;
+}
+.child-quote-box{
+	max-height: 150px;
+
+
+}
+.child-quote-button{
+	margin-top: 90px;
+  
+}
+
+.child-twitter{
+	min-height: 30px;
+	max-height: 30px;
+}
+
+.quote-box
+{
+	background-color:#FBFBFB;
+	height:450px;
+	width:450px;
+	margin-top: 30px;
+	border-radius: 30px;
+	vertical-align: top;
+}
+
+.quotation-mark{
+	margin-top: 30px;
+	font-size: 25pt;
+	vertical-align: top;
+	margin-right: 350px;	
+}
+.quote-margin{
+	margin-top: 30px;
+	position: relative;
+}
+
+.quote{
+  color: #111111;
+	font-family: 'Vollkorn', serif;
+	font-weight: 700;
+	padding: 20px;
+	
+}
+
+.author{
+	
+  color: #111111;
+	font-family: 'Vollkorn', serif;
+	font-weight: 500;
+
+
+}
+
+.button-font{
+	
+	font-family:'Vollkorn', serif;
+	font-size: 12pt;
+}
+
+.quote-button{
+	margin-top:80px;
+	background-color: #111111;
+	color: #FBFBFB;
+	
+}
+
+.twitter-button{
+	margin-right: 300px;
+	margin-top: 10px;
+}
